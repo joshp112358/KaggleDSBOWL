@@ -1,0 +1,46 @@
+
+--- [START 2018-04-01_22-44-39] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+	out_dir      = /root/share/project/kaggle/science2018/results/unet-00
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+
+** dataset setting **
+	test_dataset.split = train_ids_remove_error_669
+	len(test_dataset)  = 669
+
+** start evaluation here! **
+initial_checkpoint  = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+test_acc  = 0.00000
+test_loss = 0.03038
+test_num  = 669
+
+
+--- [START 2018-04-01_22-51-38] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+	out_dir      = /root/share/project/kaggle/science2018/results/unet-00
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+
+** dataset setting **
+	test_dataset.split = train_ids_remove_error_669
+	len(test_dataset)  = 669
+
+** start evaluation here! **
+initial_checkpoint  = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+test_acc  = 0.00000
+test_loss = 0.03038
+test_num  = 669
+

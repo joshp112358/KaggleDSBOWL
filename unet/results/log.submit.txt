@@ -1,0 +1,308 @@
+
+--- [START 2018-04-01_23-27-13] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-01_23-27-32] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-01_23-28-55] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-01-18_23-43-48] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-01_23-46-27] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-01_23-46-54] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-01_23-49-21] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-01_23-57-28] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-01_00-01-44] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-01_00-02-10] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-01_00-02-27] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-02_00-03-17] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-02_00-03-38] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-02_00-05-02] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-02_00-17-20] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-02_00-18-17] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-02_00-20-22] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-02_00-21-59] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-02_00-24-48] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-02_00-25-01] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-02_00-25-21] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-02_00-25-40] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-02_00-38-24] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-02_00-38-52] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-03_00-42-03] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-03_01-37-17] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-03_01-39-56] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
+
+--- [START 2018-04-03_01-42-19] ----------------------------------------------------------------
+
+** some experiment setting **
+	PROJECT_PATH = /root/share/project/kaggle/science2018/build/dummy-01
+
+** net setting **
+	initial_checkpoint = /root/share/project/kaggle/science2018/results/unet-00/checkpoint/00002500_model.pth
+<class 'net.model.unet1.UNet256_3x3'>
+
+** dataset setting **
